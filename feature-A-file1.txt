@@ -1,2 +1,3 @@
 this is my feature branch file
 This is for conflict for feature-A
+This is new chnage 
