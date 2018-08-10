@@ -1,4 +1,8 @@
 this is my feature branch file
 This is for conflict for feature-A
+<<<<<<< HEAD
 
 tHIS CHANGE for ramprasad
+=======
+This is new chnage 
+>>>>>>> feature-A
